@@ -1,0 +1,10 @@
+ Volume in drive K is My Stuff
+ Volume Serial Number is D83C-7A51
+
+ Directory of K:\MyGitProject
+
+04-11-2017  11:25    <DIR>          .
+04-11-2017  11:25    <DIR>          ..
+04-11-2017  11:25                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  314,756,042,752 bytes free
